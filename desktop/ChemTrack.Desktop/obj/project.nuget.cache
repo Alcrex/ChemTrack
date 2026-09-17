@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BdKxrE1RWEc=",
+  "success": true,
+  "projectFilePath": "D:\\ChemTrack\\ChemTrack\\desktop\\ChemTrack.Desktop\\ChemTrack.Desktop.csproj",
+  "expectedPackageFiles": [
+    "D:\\nugetcache\\packages\\microsoft.web.webview2\\1.0.4191.47\\microsoft.web.webview2.1.0.4191.47.nupkg.sha512",
+    "D:\\nugetcache\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "D:\\nugetcache\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "D:\\nugetcache\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "D:\\nugetcache\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
