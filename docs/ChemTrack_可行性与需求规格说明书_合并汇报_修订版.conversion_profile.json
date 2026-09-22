@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "ppt_to_md.py",
+  "conversion_type": "pptx",
+  "source": {
+    "path": "ChemTrack_可行性与需求规格说明书_合并汇报_修订版.pptx",
+    "name": "ChemTrack_可行性与需求规格说明书_合并汇报_修订版.pptx",
+    "suffix": ".pptx",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 2500334
+  },
+  "outputs": {
+    "markdown": "ChemTrack_可行性与需求规格说明书_合并汇报_修订版.md",
+    "asset_dir": "ChemTrack_可行性与需求规格说明书_合并汇报_修订版_files",
+    "image_manifest": "ChemTrack_可行性与需求规格说明书_合并汇报_修订版_files/image_manifest.json",
+    "image_count": 5
+  },
+  "markdown": {
+    "line_count": 909,
+    "char_count": 7193,
+    "heading_count": 17,
+    "table_count": 0,
+    "image_ref_count": 6,
+    "link_count": 0
+  },
+  "warnings": []
+}
